@@ -1,3 +1,9 @@
+FL456,Airbus A320,private,11:00,13:00,2h30m,John Doe,late
 FL123,Boeing 747,cargo,10:00,12:00,2h,5000,late
+FL789,Boeing 777,commercial,12:00,14:00,2h,150,late
 FL456,Airbus A320,private,11:00,13:00,2h30m,John Doe,ontime
+FL123,Boeing 747,cargo,10:00,12:00,2h,5000,late
 FL789,Boeing 777,commercial,12:00,14:00,2h,150,ontime
+FL101,Embraer E190,private,9:30,11:30,2h,4500,ontime
+FL202,Airbus A350,cargo,14:00,16:00,2h,3000,ontime
+FL303,Concorde,commercial,15:30,17:30,2h,100,ontime
